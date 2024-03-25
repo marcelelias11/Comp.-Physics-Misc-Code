@@ -1,0 +1,2 @@
+Software utilizado pra fazer a música: FamiTracker
+Softwares utilizados pra gerar o osciloscópio: SidWizPlusGui, MultiDumper, FFMPEG

@@ -1,0 +1,10 @@
+ ans  =
+
+   1.
+
+--> diary("aula1.sav")
+ ans  =
+
+   2.
+
+--> diary("aula1.txt")

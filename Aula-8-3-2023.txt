@@ -1,0 +1,9 @@
+//Tõ com preguiça
+//z = input('A:')
+//disp(z)
+printf("Hello World!\n")
+x = 3;
+y = 4;
+z = x + y;
+printf(string(z))
+print("Aula-8-3-2023-Preguica.txt", z)
